@@ -1,0 +1,28 @@
+{
+  "name": "FahrenheitToCelsius",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "tdd": "jest --verbose --watch --onlyChanged"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medeirosbiieel/FahrenheitToCelsius.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medeirosbiieel/FahrenheitToCelsius/issues"
+  },
+  "homepage": "https://github.com/medeirosbiieel/FahrenheitToCelsius#readme",
+  "dependencies": {
+    "fahrenheit-to-celsius": "^1.0.0",
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.0"
+  }
+}
